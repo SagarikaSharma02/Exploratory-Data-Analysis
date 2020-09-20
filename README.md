@@ -5,5 +5,5 @@
 2. Javascript & HTML/CSS are the most used programming languages in 2020, closely followed by SQL & Python
 3. One can learn and start programming professionally at any age, and you're likely to have a long and fulfilling career if you also enjoy programming as a hobby.
 # References
-Stack Overflow Developer Survey: https://insights.stackoverflow.com/survey
-opendatasets Python library: https://github.com/JovianML/opendatasets
+a) Stack Overflow Developer Survey: https://insights.stackoverflow.com/survey
+b) opendatasets Python library: https://github.com/JovianML/opendatasets
